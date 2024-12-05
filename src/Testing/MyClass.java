@@ -7,6 +7,7 @@ public class MyClass {
          System.out.println("Hello");
          System.out.println("Alll12");
          System.out.println("Alll12");
+         System.out.println("Alll12345");
 	}
 
 }
