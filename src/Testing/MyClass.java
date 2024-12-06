@@ -8,6 +8,8 @@ public class MyClass {
          System.out.println("Alll");
          System.out.println("123");
          System.out.println("session");
+         System.out.println("Hello! how are you");
+         System.out.println("Alll12");
 	}
 
 }
